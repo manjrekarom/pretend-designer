@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="hamburger.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1825662"
+     inkscape:cx="-916.87425"
+     inkscape:cy="724.25054"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     units="px"
+     inkscape:window-width="1314"
+     inkscape:window-height="744"
+     inkscape:window-x="52"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:0.43654827;stroke:none;stroke-width:0.44655174;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect817"
+       width="195.79166"
+       height="195.79166"
+       x="-144.3869"
+       y="58.874992" />
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.11428571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect819"
+       width="67.73333"
+       height="9.6761904"
+       x="-80.357742"
+       y="134.99939"
+       ry="4.8380952"
+       inkscape:export-filename="/home/kirito/hamburger.png"
+       inkscape:export-xdpi="95.753403"
+       inkscape:export-ydpi="95.753403" />
+    <rect
+       y="157.05659"
+       x="-80.357742"
+       height="9.6761904"
+       width="51.836739"
+       id="rect821"
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.09997917;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       ry="4.8380952"
+       inkscape:export-filename="/home/kirito/hamburger.png"
+       inkscape:export-xdpi="95.753403"
+       inkscape:export-ydpi="95.753403" />
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.08400461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect823"
+       width="36.595257"
+       height="9.6761904"
+       x="-80.357742"
+       y="179.11378"
+       ry="4.8380952"
+       inkscape:export-filename="/home/kirito/hamburger.png"
+       inkscape:export-xdpi="95.753403"
+       inkscape:export-ydpi="95.753403" />
+  </g>
+</svg>
