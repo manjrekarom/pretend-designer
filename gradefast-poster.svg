@@ -16,7 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
-   sodipodi:docname="gradefast-poster.svg">
+   sodipodi:docname="gradefast-poster.svg"
+   enable-background="new">
   <defs
      id="defs2">
     <path
@@ -66,6 +67,16 @@
     .fil2 {fill:#FEFEFE;fill-rule:nonzero}
     .fil1 {fill:#E23236;fill-rule:nonzero}
    ]]></style>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1482">
+      <feBlend
+         inkscape:collect="always"
+         mode="color-burn"
+         in2="BackgroundImage"
+         id="feBlend1484" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -74,11 +85,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15926352"
-     inkscape:cx="2127.0279"
-     inkscape:cy="2980.1888"
+     inkscape:zoom="0.22523263"
+     inkscape:cx="3821.627"
+     inkscape:cy="1261.4654"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="px"
      inkscape:window-width="1314"
@@ -1361,7 +1372,9 @@
        xml:space="preserve"
        id="flowRoot612"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,1.0583333,-894.11668)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,1.0583333,-894.11668)"
+       inkscape:export-xdpi="95.753403"
+       inkscape:export-ydpi="95.753403"><flowRegion
          id="flowRegion614"><rect
            id="rect616"
            width="1378.219"
@@ -1376,7 +1389,9 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="44.051678"
        y="-302.33551"
-       id="text632"><tspan
+       id="text632"
+       inkscape:export-xdpi="95.753403"
+       inkscape:export-ydpi="95.753403"><tspan
          sodipodi:role="line"
          id="tspan630"
          x="44.051678"
@@ -1659,7 +1674,7 @@
            x="152.50854"
            y="2934.8821" /></flowRegion><flowPara
          id="flowPara18699"
-         style="text-align:justify;text-anchor:start">Gradefast has evaluated 3 themes from e-Yantra Robotics Competition 2019 and was tested with 2 themes from the last year. It was used to assess practical exams of CS699 (Software Systems Lab) at IIT Bombay. It was one of factors that we relied on to scale the e-Yantra competition by 4 times over earlier years. </flowPara></flowRoot>    <path
+         style="text-align:justify;text-anchor:start">GradeFast has evaluated 3 themes from e-Yantra Robotics Competition 2019 and was tested with 2 themes from the last year. It was used to assess practical exams of CS699 (Software Systems Lab) at IIT Bombay. It was one of factors that we relied on to scale the e-Yantra competition by 4 times over earlier years. </flowPara></flowRoot>    <path
        style="opacity:1;fill:#aae4f3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 396.09259,849.72098 v 0 l 0.0143,219.09052 v 0 l -350.884907,-0.085 v 0 -219.0807 z"
        id="rect18701"
@@ -1914,7 +1929,7 @@
            id="rect2342"
            style="stroke-width:1.106444" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:1.106444"
-         id="flowPara2344">No. of submissions evaluated with Gradefast</flowPara></flowRoot>    <flowRoot
+         id="flowPara2344">No. of submissions evaluated with GradeFast</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-2.4440143,-392.52485)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot2358"
@@ -2017,7 +2032,7 @@
            x="992.41907"
            y="3308.0349" /></flowRegion><flowPara
          id="flowPara2470"
-         style="font-size:16px;text-align:justify;text-anchor:start">First time use of gradefast took time because of the learning curve involved. But later, we could completely focus on writing test class hardly caring about other code. More modularity, maintainability. Logging feature made it possible to easily go through and verify the failing tests.</flowPara></flowRoot>    <flowRoot
+         style="font-size:16px;text-align:justify;text-anchor:start">First time use of GradeFast took time because of the learning curve involved. But later, we could completely focus on writing test class hardly caring about other code. More modularity, maintainability. Logging feature made it possible to easily go through and verify the failing tests.</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-0.52916675,43.150388)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot2559"
@@ -2032,7 +2047,7 @@
            width="487.32388"
            id="rect2553" /></flowRegion><flowPara
          id="flowPara2557"
-         style="font-size:16px;text-align:justify;text-anchor:start">Without gradefast it would take 2.5 days, was done in half a day with it. Had to manually do some part of 10% of the submissions due to some issue with oct2py library. Reusing scripts was easy.</flowPara></flowRoot>    <flowRoot
+         style="font-size:16px;text-align:justify;text-anchor:start">Without GradeFast it would take 2.5 days, was done in half a day with it. Had to manually do some part of 10% of the submissions due to some issue with oct2py library. Reusing scripts was easy.</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,-0.52916675,133.33612)"
        style="font-style:normal;font-weight:normal;font-size:18.66666603px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot2796"
@@ -2047,7 +2062,7 @@
            width="485.78149"
            id="rect2790" /></flowRegion><flowPara
          id="flowPara2794"
-         style="font-size:16px;text-align:justify;text-anchor:start">With gradefast taking care of entire pipeline, it's really easy to see the results right away. Another thing we liked about it are the utility methods it provides to save time. Sometimes the submissions come later than deadline, so we do evaluation in stages. Gradefast considers this scenario and provides aggregate methods and methods for storing.</flowPara></flowRoot>    <path
+         style="font-size:16px;text-align:justify;text-anchor:start">With GradeFast taking care of entire pipeline, it's really easy to see the results right away. Another thing we liked about it are the utility methods it provides to save time. Sometimes the submissions come later than deadline, so we do evaluation in stages. GradeFast considers this scenario and provides aggregate methods and methods for storing.</flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 396.19229,914.96503 H 45.09821 Z"
        id="path2798"
@@ -2333,7 +2348,7 @@
          y="516.8584"
          x="440.88138"
          id="tspan1590"
-         sodipodi:role="line">Gradefast Handles</tspan></text>
+         sodipodi:role="line">GradeFast Handles</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1.99998534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15.99988295, 3.99997074, 1.99998537, 3.99997074;stroke-dashoffset:19.99985313;stroke-opacity:1"
        d="M 630.22201,456.23613 V 704.23667"
@@ -2820,7 +2835,7 @@
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
            id="flowPara2591"> </flowPara><flowPara
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
-           id="flowPara2595">2. It is independent of programming language used for  assignments (tasks can be Java, C++, Python, etc.).</flowPara><flowPara
+           id="flowPara2595">2. It is independent of programming language used for assignments (tasks can be Java, C++, Python, etc.).</flowPara><flowPara
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
            id="flowPara2597" /><flowPara
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start"
@@ -2871,7 +2886,7 @@
          style="font-size:16px;text-align:justify;text-anchor:start">Easy verification and evaluation of initial Task provided done in fraction of seconds.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot11201"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion11203"><rect
            id="rect11205"
            width="163.16464"
@@ -2899,7 +2914,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer 4">
+     inkscape:label="Layer 4"
+     style="filter:url(#filter1482)">
     <g
        id="g2389"
        transform="matrix(0,0.95892396,-0.96157231,0,171.72505,1159.4594)"
@@ -2926,5 +2942,21 @@
         </g>
       </g>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot634"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0.48782155,145.76919)"><flowRegion
+         id="flowRegion636"
+         style="line-height:1.25"><rect
+           id="rect638"
+           width="528.4353"
+           height="259.56259"
+           x="2448.5796"
+           y="1865.4648"
+           style="line-height:1.25" /></flowRegion><flowPara
+         id="flowPara642"
+         style="font-weight:bold;font-size:26.66666603px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Note: <flowSpan
+   style="font-weight:normal"
+   id="flowSpan1456">Tests can be written in any programming language while the code for evaluating submissions with GradeFast is written in Python</flowSpan></flowPara></flowRoot>  </g>
 </svg>
